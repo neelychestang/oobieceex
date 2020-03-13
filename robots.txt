@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohwoowooc.karl.tf/sitemap.xml
